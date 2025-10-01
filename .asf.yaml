@@ -13,6 +13,7 @@ github:
     - java
     - build-management
     - maven
+    - hacktoberfest
   enabled_merge_buttons:
     squash: true
     merge: false
